@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./js/02-array.js",
+    "dev": "nodemon ./js/03-if.js",
+    "dev1": "nodemon ./js/01-variables.js",
+    "dev2": "nodemon ./js/02-array.js",
+    "dev3": "nodemon ./js/03-if.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
