@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./js/03-if.js",
+    "dev0": "nodemon ./js/00-namudarbai.js",
     "dev1": "nodemon ./js/01-variables.js",
     "dev2": "nodemon ./js/02-array.js",
     "dev3": "nodemon ./js/03-if.js",
