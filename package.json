@@ -7,6 +7,7 @@
     "dev9": "nodemon ./js/09-count.js",
     "dev8": "nodemon ./js/08-daugyba.js",
     "dev7": "nodemon ./js/07-function.js",
+    "cw": "nodemon ./codewars/getPlanetName.js",
     "dev6": "nodemon ./js/06-operators.js",
     "dev5": "nodemon ./js/05-for.js",
     "dev4": "nodemon ./js/04-switch.js",   
