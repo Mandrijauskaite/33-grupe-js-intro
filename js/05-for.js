@@ -90,7 +90,7 @@ console.log(`Nuo ${nuo3} iki ${iki3} skaciu suma yra ${suma3}.`);
 console.log('---------');
 
 /*
-Panaudojant cikl1 perra6yti tekstinio tipo kintam7j7 reik6mes i6 kito galo.
+Panaudojant cikla perrasyti tekstinio tipo kintamuju reiksmes is kito galo.
 */
 
 const text = 'abcdef';
